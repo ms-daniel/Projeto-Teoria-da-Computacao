@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1625683247 source:c:\users\lauro\desktop\projeto tc\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+
